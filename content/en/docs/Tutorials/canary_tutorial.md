@@ -1,5 +1,5 @@
 ---
-title: "Canary Tutorial"
+title: "Bluebird Tutorial"
 date: 2020-05-14
 weight: 5
 description: >
@@ -24,5 +24,3 @@ description: >
   * do first optimization
   * change optimization goal (e.g., change spp as "prefer better perf" vs. "prefer cost savings") and reoptimize
   * change workload (i.e., change busy parameter) emulating new app versions and reoptimize
-
-
